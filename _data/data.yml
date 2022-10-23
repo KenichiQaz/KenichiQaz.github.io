@@ -137,10 +137,13 @@ skills:
         level: 60%
       
       - name: Microsoft Office
-        level: 90%
+        level: 95%
 
       - name: IT Operations
         level: 90%
+
+      - name: Fast.ai
+        level: 80%
 
 footer: >
     Copyright &copy; 2022
