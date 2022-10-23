@@ -60,6 +60,19 @@ education:
           I specialised in Computer Science and was top of my class for 4 years.
           I participated in the university's supplimental instruction program 
 
+    info:
+      - degree: AI Course - https://course.fast.ai/
+        university: Fast AI - https://course.fast.ai/Resources/book.html
+        time: 2022
+        details: |
+          Completed the book and started working on private projects.
+
+    info:
+      - degree: Kaggle challenges
+        time: 2022
+        details: |
+          - Completed the Titanic challenge, 
+
 experiences:
     title: Experiences
     info:
