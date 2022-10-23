@@ -67,16 +67,16 @@ experiences:
         time: 2022 - Present
         company: 
         details: |
-          I completed in a few projects while I was working as a freelancer:
+          Fast AI - https://course.fast.ai/Resources/book.html
+          - Completed the book and started working on private projects.
+
+          I completed the following projects:
             - Created a web portal for a tutor to keep track of attendance and finances of the tutoring business.
             - Developed a AI model to recognise students as they entered the school.
             - Extended the AI model to take automatic attendance.
 
-          Fast AI - https://course.fast.ai/Resources/book.html
-          - Completed the book and started working on private projects.
-
           Kaggle:
-          - Completed the Titanic challenge.
+          - Completed the Titanic challenge with an accuracy score of 75.36%.
 
       - role: ICT Teacher
         time: 2018 - 2022
