@@ -78,23 +78,27 @@ experiences:
           Kaggle:
           - Completed the Titanic challenge with an accuracy score of 75.36%.
 
-      - role: ICT Teacher
-        time: 2018 - 2022
-        company: Singapore International School, Binh Duong, Vietnam
-        details: |
-          - I was responsible for may tasks during my teaching career, including providing professional development training for teachers. I enjoyed running afterschool activities and clubs as it allowed me to interact with students about my passions, some of the clubs I ran included 3D design and printing club as well as a Dungeons & Dragons club.
-          - I helped in the assessment and submission of IGCSE grades into the ever-changing submission system. My supervisor always appreciated the help navigating the complex system.
-          - I helped format and compile videos and presentations for the end of year awards ceremony 2018-2019.
-          - Assisted teachers with computer issues whenever possible and I also assisted in the transition to online learning during the pandemic.
-
-      - role: Call-out Technician
+      - role: IT Technician
         time: 2016 - 2018
         company: Boshoff Computer Solutions, Vereeniging, South Africa
         details: |
-          - Resolved technical problems for clients with a high level of satisfaction.
-          - Used a variety of tools to assist clients remotely and on-site.
-          - Researching creative solutions to client problems
-          - Created scripts in Windows Batch and Powershell to simplify tasks and automate work.
+          - Set up workstations with computers and necessary peripheral devices.
+          - Check computer hardware to ensure functionality.
+          - Provide orientation and guidance to users on how to operate new software and computer equipment.
+          - Perform troubleshooting to diagnose and resolve problems.
+          - Maintain records/logs of repairs and fixes and maintenance schedule.
+          - Writing scripts to automate repetitive tasks.
+
+      - role: ICT Trainer
+        time: 2016 - 2018
+        company: Boshoff Computer Solutions, Vereeniging, South Africa
+        details: |
+          - Conduct ICT training and development programs in the form of individual and group instruction.
+          - Liaising with external training providers to arrange delivery of specific training and development programs.
+          - Monitoring and performing ongoing evaluation and assessment of training quality and effectiveness, and reviewing and modifying training objectives, methods and course deliverables.
+          - Gathering, investigating and researching background materials to gain a full understanding of the ICT subject matter and systems.
+          - Keeping up-to-date with new product version releases, advances in programming languages, application development software, and general information technology trends.
+          - Responsible for the set-up of the learning environment and resources.
 
 #projects:
 #    title: Projects
